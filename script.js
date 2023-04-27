@@ -1,5 +1,3 @@
-// //API KEY
-// // e6267a4c4601454d92b2bcd80021639b
 
 const API_KEY="e6267a4c4601454d92b2bcd80021639b"
 const url ="https://newsapi.org/v2/everything?q="
